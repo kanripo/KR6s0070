@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:34.560044
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:13
 #+TITLE: 御錄宗鏡大綱
 #+PROPERTY: CBETA_ID L164n1668
 #+PROPERTY: ID KR6s0070
@@ -575,7 +575,7 @@
 御錄宗鏡大綱卷十四
 <pb:KR6s0070_L_014-0228b>¶
 
-音釋¶
+** 音釋¶
 
 筋
 (音斤骨絡)。
