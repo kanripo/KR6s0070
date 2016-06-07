@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:34.312340
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:12
 #+TITLE: 御錄宗鏡大綱
 #+PROPERTY: CBETA_ID L164n1668
 #+PROPERTY: ID KR6s0070
 #+PROPERTY: SOURCE Qianlong Edition of the Canon Vol. 164, No. 1668
 #+PROPERTY: VOL 164
 #+PROPERTY: BASEEDITION L
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0070_L_005-0072b> 
 #+PROPERTY: JUAN 5
-
- 御錄宗鏡大綱卷五　　　　　　　兩五¶
+御錄宗鏡大綱卷五　　　　　　　兩五¶
 
 問成佛之理或云一念或云三祇未審定取¶
 何文以印後學答成佛之旨且非時劫遲速¶
@@ -296,7 +295,7 @@
 一切法有好有醜有內有外一切法有心生¶
 故名為有無自體故空無所得空者一切法¶
 乃至無餘涅槃不可得故名無所得空無法¶
-空有法空無法有法空者無法名法已滅是
+空有法空無法有法空者無法名法巳滅是
 <pb:KR6s0070_L_005-0081a>¶
 滅無故名無法空有法空者諸法因緣和合¶
 生故有法實性無故名有法空無法有法空¶
@@ -371,7 +370,7 @@
 ¶
 御錄宗鏡大綱卷五¶
 
-音釋¶
+** 音釋¶
 
 懆
 (則到切慍也)。

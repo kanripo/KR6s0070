@@ -1,16 +1,15 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:34.275876
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:12
 #+TITLE: 御錄宗鏡大綱
 #+PROPERTY: CBETA_ID L164n1668
 #+PROPERTY: ID KR6s0070
 #+PROPERTY: SOURCE Qianlong Edition of the Canon Vol. 164, No. 1668
 #+PROPERTY: VOL 164
 #+PROPERTY: BASEEDITION L
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0070_L_004-0057b> 
 #+PROPERTY: JUAN 4
-
- 御錄宗鏡大綱卷四　　　　　　　兩四¶
+御錄宗鏡大綱卷四　　　　　　　兩四¶
 
 問唯一心法云何教中廣立名字答如來名¶
 號十方不同般若一法說種種名解脫亦爾¶
@@ -77,7 +76,7 @@
 或稟三藏寂滅真空如此等人何須觀具何¶
 者藏通但云心生六界觀有巧拙即離不同¶
 是故此兩教不須觀具尚不識具况識空中¶
-若不爾者何名發心畢竟二不別成正覺已
+若不爾者何名發心畢竟二不別成正覺巳
 <pb:KR6s0070_L_004-0059b>¶
 何能現於十界身土又復學者縱知內心具¶
 三千法不知我徧彼三千彼彼三千互徧亦¶
@@ -517,7 +516,7 @@
 不見矣。¶
 御錄宗鏡大綱卷四¶
 
-音釋¶
+** 音釋¶
 
 穢
 (威去聲)。
